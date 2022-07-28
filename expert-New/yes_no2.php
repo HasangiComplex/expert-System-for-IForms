@@ -65,7 +65,7 @@ color:#fff;
 		
 		
 	
-			echo $rows['q3'];}
+			header("location:yes_no4.php"); }
 			
 		}
 		
