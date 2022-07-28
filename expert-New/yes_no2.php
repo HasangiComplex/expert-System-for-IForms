@@ -65,7 +65,7 @@ color:#fff;
 		
 		
 	
-			header("location:yes_no4.php"); }
+			header("location:yes_no3.php"); }
 			
 		}
 		
